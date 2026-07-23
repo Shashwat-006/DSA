@@ -53,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shashwat-006/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Shashwat-006/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shashwat-006/DSA/tree/master/0009-palindrome-number) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Shashwat-006/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Union-Find
 |  |
 | ------- |
