@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shashwat-006/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Shashwat-006/DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Shashwat-006/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shashwat-006/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Shashwat-006/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Shashwat-006/DSA/tree/master/0075-sort-colors) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shashwat-006/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Shashwat-006/DSA/tree/master/0048-rotate-image) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Shashwat-006/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Union-Find
 |  |
@@ -68,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shashwat-006/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Shashwat-006/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
