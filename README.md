@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Shashwat-006/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashwat-006/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shashwat-006/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2404-most-frequent-even-element](https://github.com/Shashwat-006/DSA/tree/master/2404-most-frequent-even-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shashwat-006/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shashwat-006/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashwat-006/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [2404-most-frequent-even-element](https://github.com/Shashwat-006/DSA/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shashwat-006/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shashwat-006/DSA/tree/master/0229-majority-element-ii) |
+| [2404-most-frequent-even-element](https://github.com/Shashwat-006/DSA/tree/master/2404-most-frequent-even-element) |
 ## Dynamic Programming
 |  |
 | ------- |
