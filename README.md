@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shashwat-006/DSA/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Shashwat-006/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Shashwat-006/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shashwat-006/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shashwat-006/DSA/tree/master/0169-majority-element) |
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Shashwat-006/DSA/tree/master/0493-reverse-pairs) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Shashwat-006/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Shashwat-006/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
