@@ -132,8 +132,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shashwat-006/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1021-remove-outermost-parentheses](https://github.com/Shashwat-006/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shashwat-006/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Shashwat-006/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
