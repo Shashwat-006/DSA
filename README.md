@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shashwat-006/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Shashwat-006/DSA/tree/master/0048-rotate-image) |
+| [1903-largest-odd-number-in-string](https://github.com/Shashwat-006/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Shashwat-006/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Union-Find
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shashwat-006/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1021-remove-outermost-parentheses](https://github.com/Shashwat-006/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Shashwat-006/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Shashwat-006/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Shashwat-006/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
