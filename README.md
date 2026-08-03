@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Shashwat-006/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Shashwat-006/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashwat-006/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Shashwat-006/DSA/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shashwat-006/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/Shashwat-006/DSA/tree/master/2404-most-frequent-even-element) |
 ## Bit Manipulation
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Shashwat-006/DSA/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/Shashwat-006/DSA/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Shashwat-006/DSA/tree/master/0704-binary-search) |
 ## Binary Indexed Tree
 |  |
 | ------- |
