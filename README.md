@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shashwat-006/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Shashwat-006/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shashwat-006/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shashwat-006/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Shashwat-006/DSA/tree/master/0031-next-permutation) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shashwat-006/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shashwat-006/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shashwat-006/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Shashwat-006/DSA/tree/master/0031-next-permutation) |
@@ -172,5 +174,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shashwat-006/DSA/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/Shashwat-006/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
