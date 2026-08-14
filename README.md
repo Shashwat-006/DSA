@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shashwat-006/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Shashwat-006/DSA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Shashwat-006/DSA/tree/master/0069-sqrtx) |
 | [1903-largest-odd-number-in-string](https://github.com/Shashwat-006/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Shashwat-006/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Union-Find
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shashwat-006/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shashwat-006/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shashwat-006/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Shashwat-006/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shashwat-006/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shashwat-006/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shashwat-006/DSA/tree/master/0162-find-peak-element) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shashwat-006/DSA/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/Shashwat-006/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shashwat-006/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
