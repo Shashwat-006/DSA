@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shashwat-006/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Shashwat-006/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Shashwat-006/DSA/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Shashwat-006/DSA/tree/master/0441-arranging-coins) |
 | [1903-largest-odd-number-in-string](https://github.com/Shashwat-006/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Shashwat-006/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Union-Find
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Shashwat-006/DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Shashwat-006/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shashwat-006/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Shashwat-006/DSA/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/Shashwat-006/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shashwat-006/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shashwat-006/DSA/tree/master/0704-binary-search) |
