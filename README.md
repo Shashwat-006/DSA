@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shashwat-006/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Shashwat-006/DSA/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shashwat-006/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Shashwat-006/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Shashwat-006/DSA/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Shashwat-006/DSA/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Shashwat-006/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Shashwat-006/DSA/tree/master/0441-arranging-coins) |
 | [1903-largest-odd-number-in-string](https://github.com/Shashwat-006/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Shashwat-006/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shashwat-006/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Shashwat-006/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
