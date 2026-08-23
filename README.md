@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shashwat-006/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shashwat-006/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Shashwat-006/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Shashwat-006/DSA/tree/master/0048-rotate-image) |
@@ -223,10 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shashwat-006/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Shashwat-006/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Shashwat-006/DSA/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shashwat-006/DSA/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shashwat-006/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
