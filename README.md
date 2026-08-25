@@ -4,15 +4,16 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 2
+- **Total Problems Solved:** 3
 - **Easy:** 0 🟢
-- **Medium:** 2 🟡
+- **Medium:** 3 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | cpp | 2026-08-25 |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | cpp | 2026-08-25 |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/submissions/2119339936/) | 🟡 Medium | cpp | 2026-08-25 |
 
