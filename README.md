@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 13
+- **Total Problems Solved:** 14
 - **Easy:** 9 🟢
-- **Medium:** 4 🟡
+- **Medium:** 5 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -26,6 +26,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/submissions/2128453105/) | 🟡 Medium | cpp | 2026-09-02 |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | cpp | 2026-08-25 |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/submissions/2119339936/) | 🟡 Medium | cpp | 2026-08-25 |
+| [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/submissions/2128992554/) | 🟡 Medium | cpp | 2026-09-02 |
 
 ---
 
