@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 15
-- **Easy:** 9 🟢
+- **Total Problems Solved:** 16
+- **Easy:** 10 🟢
 - **Medium:** 6 🟡
 - **Hard:** 0 🔴
 
@@ -13,6 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/2131460651/) | 🟢 Easy | cpp | 2026-09-05 |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/2124761294/) | 🟢 Easy | cpp | 2026-08-30 |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/2122379290/) | 🟢 Easy | cpp | 2026-08-27 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/2120212705/) | 🟢 Easy | cpp | 2026-08-25 |
