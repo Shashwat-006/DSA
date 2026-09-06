@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 16
-- **Easy:** 10 🟢
+- **Total Problems Solved:** 17
+- **Easy:** 11 🟢
 - **Medium:** 6 🟡
 - **Hard:** 0 🔴
 
@@ -18,6 +18,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/2122379290/) | 🟢 Easy | cpp | 2026-08-27 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/2120212705/) | 🟢 Easy | cpp | 2026-08-25 |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/submissions/2121308402/) | 🟢 Easy | cpp | 2026-08-26 |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/2132525246/) | 🟢 Easy | cpp | 2026-09-06 |
 | [3136. Valid Word](https://leetcode.com/problems/valid-word/submissions/2126984143/) | 🟢 Easy | cpp | 2026-09-01 |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/submissions/2124220057/) | 🟢 Easy | cpp | 2026-08-29 |
 | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/submissions/2126968240/) | 🟢 Easy | cpp | 2026-09-01 |
