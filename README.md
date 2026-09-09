@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 17
-- **Easy:** 11 🟢
+- **Total Problems Solved:** 18
+- **Easy:** 12 🟢
 - **Medium:** 6 🟡
 - **Hard:** 0 🔴
 
@@ -23,6 +23,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/submissions/2124220057/) | 🟢 Easy | cpp | 2026-08-29 |
 | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/submissions/2126968240/) | 🟢 Easy | cpp | 2026-09-01 |
 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/submissions/2126966500/) | 🟢 Easy | cpp | 2026-09-01 |
+| [796. Rotate String](https://leetcode.com/problems/rotate-string/submissions/2136231316/) | 🟢 Easy | cpp | 2026-09-09 |
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/2120212786/) | 🟢 Easy | cpp | 2026-08-25 |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/2129684142/) | 🟡 Medium | cpp | 2026-09-03 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | cpp | 2026-08-25 |
