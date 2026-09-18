@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 22
-- **Easy:** 15 🟢
+- **Total Problems Solved:** 23
+- **Easy:** 16 🟢
 - **Medium:** 7 🟡
 - **Hard:** 0 🔴
 
@@ -20,6 +20,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/submissions/2137974789/) | 🟢 Easy | cpp | 2026-09-10 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/2120212705/) | 🟢 Easy | cpp | 2026-08-25 |
 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/submissions/2145215259/) | 🟢 Easy | cpp | 2026-09-17 |
+| [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | 🟢 Easy | cpp | 2026-09-18 |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/submissions/2121308402/) | 🟢 Easy | cpp | 2026-08-26 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/2132525246/) | 🟢 Easy | cpp | 2026-09-06 |
 | [3136. Valid Word](https://leetcode.com/problems/valid-word/submissions/2126984143/) | 🟢 Easy | cpp | 2026-09-01 |
