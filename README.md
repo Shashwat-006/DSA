@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 23
+- **Total Problems Solved:** 24
 - **Easy:** 16 🟢
-- **Medium:** 7 🟡
+- **Medium:** 8 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -30,6 +30,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/submissions/2136231316/) | 🟢 Easy | cpp | 2026-09-09 |
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/2120212786/) | 🟢 Easy | cpp | 2026-08-25 |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/2129684142/) | 🟡 Medium | cpp | 2026-09-03 |
+| [155. Min Stack](https://leetcode.com/problems/min-stack/submissions/2146761933/) | 🟡 Medium | cpp | 2026-09-19 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | cpp | 2026-08-25 |
 | [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/submissions/2128453105/) | 🟡 Medium | cpp | 2026-09-02 |
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | cpp | 2026-08-25 |
