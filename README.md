@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 24
-- **Easy:** 16 🟢
+- **Total Problems Solved:** 25
+- **Easy:** 17 🟢
 - **Medium:** 8 🟡
 - **Hard:** 0 🔴
 
@@ -25,6 +25,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/2132525246/) | 🟢 Easy | cpp | 2026-09-06 |
 | [3136. Valid Word](https://leetcode.com/problems/valid-word/submissions/2126984143/) | 🟢 Easy | cpp | 2026-09-01 |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/submissions/2124220057/) | 🟢 Easy | cpp | 2026-08-29 |
+| [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/submissions/2148112126/) | 🟢 Easy | cpp | 2026-09-20 |
 | [709. To Lower Case](https://leetcode.com/problems/to-lower-case/submissions/2126968240/) | 🟢 Easy | cpp | 2026-09-01 |
 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/submissions/2126966500/) | 🟢 Easy | cpp | 2026-09-01 |
 | [796. Rotate String](https://leetcode.com/problems/rotate-string/submissions/2136231316/) | 🟢 Easy | cpp | 2026-09-09 |
