@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 26
+- **Total Problems Solved:** 27
 - **Easy:** 17 🟢
-- **Medium:** 9 🟡
+- **Medium:** 10 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -39,6 +39,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [443. String Compression](https://leetcode.com/problems/string-compression/submissions/2143060246/) | 🟡 Medium | cpp | 2026-09-15 |
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/submissions/2150081220/) | 🟡 Medium | cpp | 2026-09-22 |
 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/submissions/2128992554/) | 🟡 Medium | cpp | 2026-09-02 |
+| [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/submissions/2150243289/) | 🟡 Medium | cpp | 2026-09-22 |
 
 ---
 
