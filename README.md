@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 25
+- **Total Problems Solved:** 26
 - **Easy:** 17 🟢
-- **Medium:** 8 🟡
+- **Medium:** 9 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -37,6 +37,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | cpp | 2026-08-25 |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/submissions/2119339936/) | 🟡 Medium | cpp | 2026-08-25 |
 | [443. String Compression](https://leetcode.com/problems/string-compression/submissions/2143060246/) | 🟡 Medium | cpp | 2026-09-15 |
+| [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/submissions/2150081220/) | 🟡 Medium | cpp | 2026-09-22 |
 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/submissions/2128992554/) | 🟡 Medium | cpp | 2026-09-02 |
 
 ---
