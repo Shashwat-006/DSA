@@ -4,7 +4,6 @@ public:
 stack<pair<int,int>> st;
 int idx=-1;
     StockSpanner() {
-        idx = -1;
     }
     int next(int price) {
         idx++;
