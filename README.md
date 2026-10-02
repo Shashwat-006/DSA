@@ -70,6 +70,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Shashwat-006/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashwat-006/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0402-remove-k-digits](https://github.com/Shashwat-006/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0901-online-stock-span](https://github.com/Shashwat-006/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Shashwat-006/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -122,4 +123,16 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shashwat-006/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
