@@ -72,6 +72,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashwat-006/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0402-remove-k-digits](https://github.com/Shashwat-006/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0901-online-stock-span](https://github.com/Shashwat-006/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Shashwat-006/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -129,14 +130,17 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
