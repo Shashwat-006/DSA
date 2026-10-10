@@ -22,11 +22,11 @@ public:
             long long high;
             for(int i=0;i<s;i++){
                 TreeNode* node = q.front().first;
-                long long val = q.front().second-low;
-                high = val+low;
+                long long val = q.front().second;
+                high = val;
                 q.pop();
-                if(node->left!=NULL) q.push({node->left,2*val}); 
-                if(node->right!=NULL) q.push({node->right,2*val+1}); 
+                if(node->left!=NULL) q.push({node->left,2*(val-low)}); 
+                if(node->right!=NULL) q.push({node->right,2*(val-low)+1}); 
             }
             diff = max(diff, high-low+1);
         }
