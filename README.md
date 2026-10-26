@@ -72,6 +72,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [0042-trapping-rain-water](https://github.com/Shashwat-006/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashwat-006/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shashwat-006/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0402-remove-k-digits](https://github.com/Shashwat-006/DSA/tree/main/0402-remove-k-digits/) | Medium |
@@ -136,6 +137,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shashwat-006/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shashwat-006/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Shashwat-006/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shashwat-006/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shashwat-006/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -154,6 +156,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [0101-symmetric-tree](https://github.com/Shashwat-006/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shashwat-006/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Shashwat-006/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shashwat-006/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shashwat-006/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -173,6 +176,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shashwat-006/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shashwat-006/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Shashwat-006/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shashwat-006/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shashwat-006/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -225,4 +229,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Shashwat-006/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Shashwat-006/DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
