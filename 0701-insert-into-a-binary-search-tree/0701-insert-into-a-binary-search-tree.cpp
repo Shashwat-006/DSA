@@ -15,19 +15,18 @@ public:
         TreeNode* temp =new TreeNode(val);
         if(root==NULL) return temp;
         TreeNode* node=root;
-        bool flag=true;
-        while(flag){
+        while(1){
             if(node->val>val){
                 if(node->left==NULL){
                     node->left=temp;
-                    flag = false;
+                    break;
                 }
                 node = node->left;
             }
             else{
                 if(node->right==NULL){
                     node->right = temp;
-                    flag=false;
+                    break;
                 }
                 node=node->right;
             }
