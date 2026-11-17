@@ -142,6 +142,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Shashwat-006/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Shashwat-006/DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Shashwat-006/DSA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Shashwat-006/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shashwat-006/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -175,6 +176,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Shashwat-006/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Shashwat-006/DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Shashwat-006/DSA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Shashwat-006/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shashwat-006/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -198,6 +200,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Shashwat-006/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Shashwat-006/DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Shashwat-006/DSA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Shashwat-006/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shashwat-006/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -288,6 +291,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Shashwat-006/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Shashwat-006/DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Shashwat-006/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shashwat-006/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shashwat-006/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
