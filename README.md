@@ -57,6 +57,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [0239-sliding-window-maximum](https://github.com/Shashwat-006/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/Shashwat-006/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shashwat-006/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Shashwat-006/DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -129,6 +130,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shashwat-006/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shashwat-006/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,4 +306,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Shashwat-006/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shashwat-006/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
