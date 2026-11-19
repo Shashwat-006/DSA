@@ -10,13 +10,14 @@ public:
                 st.pop();
             }
             if(st.empty()){
-                ans.insert(ans.begin(),prices[i]);
+                ans.push_back(prices[i]);
                 st.push(prices[i]);
                 continue;
             }
-            ans.insert(ans.begin(),prices[i]-st.top());
+            ans.push_back(prices[i]-st.top());
             st.push(prices[i]);
         }
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
