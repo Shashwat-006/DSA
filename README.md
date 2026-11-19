@@ -118,6 +118,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shashwat-006/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shashwat-006/DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0402-remove-k-digits](https://github.com/Shashwat-006/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Shashwat-006/DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -132,6 +133,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shashwat-006/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shashwat-006/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shashwat-006/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Heap (Priority Queue)
@@ -256,6 +258,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shashwat-006/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashwat-006/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
