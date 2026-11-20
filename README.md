@@ -56,6 +56,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shashwat-006/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/Shashwat-006/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Shashwat-006/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shashwat-006/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shashwat-006/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -135,6 +136,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashwat-006/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shashwat-006/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/Shashwat-006/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shashwat-006/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -282,6 +284,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Shashwat-006/DSA/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Shashwat-006/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +319,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Shashwat-006/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shashwat-006/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
