@@ -5,13 +5,12 @@ public:
         int n=nums.size();
         while(end<n){
             if(nums[end]==0) zeros++;
-            while(zeros>k){
+            if(zeros>k){
                 if(nums[start]==0) zeros--;
                 start++;
             }
-            maxlen=max(maxlen,end-start+1);
             end++;
         }
-        return maxlen;
+        return n-start;
     }
 };
