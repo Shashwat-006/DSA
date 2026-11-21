@@ -55,6 +55,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shashwat-006/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0904-fruit-into-baskets](https://github.com/Shashwat-006/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Shashwat-006/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashwat-006/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -138,6 +139,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashwat-006/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shashwat-006/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashwat-006/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Shashwat-006/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashwat-006/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shashwat-006/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Heap (Priority Queue)
@@ -268,6 +270,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [0424-longest-repeating-character-replacement](https://github.com/Shashwat-006/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashwat-006/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shashwat-006/DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Shashwat-006/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashwat-006/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
