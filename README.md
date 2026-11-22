@@ -126,6 +126,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [0424-longest-repeating-character-replacement](https://github.com/Shashwat-006/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashwat-006/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Shashwat-006/DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Shashwat-006/DSA/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
