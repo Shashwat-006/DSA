@@ -56,6 +56,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shashwat-006/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0455-assign-cookies](https://github.com/Shashwat-006/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/Shashwat-006/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Shashwat-006/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Shashwat-006/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashwat-006/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -138,6 +139,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Shashwat-006/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/Shashwat-006/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/Shashwat-006/DSA/tree/main/0860-lemonade-change/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
