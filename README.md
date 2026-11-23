@@ -55,6 +55,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Shashwat-006/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0455-assign-cookies](https://github.com/Shashwat-006/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Shashwat-006/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Shashwat-006/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Shashwat-006/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -69,6 +70,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Shashwat-006/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0455-assign-cookies](https://github.com/Shashwat-006/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashwat-006/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Shashwat-006/DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Dynamic Programming
@@ -135,6 +137,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Shashwat-006/DSA/tree/main/0402-remove-k-digits/) | Medium |
+| [0455-assign-cookies](https://github.com/Shashwat-006/DSA/tree/main/0455-assign-cookies/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +294,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/Shashwat-006/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashwat-006/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -357,4 +361,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shashwat-006/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Shashwat-006/DSA/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
