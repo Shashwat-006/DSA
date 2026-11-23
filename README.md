@@ -51,6 +51,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Shashwat-006/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/Shashwat-006/DSA/tree/main/0055-jump-game/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashwat-006/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shashwat-006/DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -78,6 +79,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Shashwat-006/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/Shashwat-006/DSA/tree/main/0055-jump-game/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shashwat-006/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/Shashwat-006/DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Stack
@@ -137,6 +139,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Shashwat-006/DSA/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/Shashwat-006/DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/Shashwat-006/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Shashwat-006/DSA/tree/main/0860-lemonade-change/) | Easy |
