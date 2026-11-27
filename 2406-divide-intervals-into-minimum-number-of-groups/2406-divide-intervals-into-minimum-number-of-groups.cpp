@@ -1,7 +1,6 @@
 class Solution {
 public:
     int minGroups(vector<vector<int>>& intervals) {
-        if(intervals.size()==1) return 1;
         vector<int> arr;
         vector<int> dep;
         for(int i=0;i<intervals.size();i++){
