@@ -70,6 +70,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shashwat-006/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shashwat-006/DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Shashwat-006/DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shashwat-006/DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [0455-assign-cookies](https://github.com/Shashwat-006/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shashwat-006/DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Shashwat-006/DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shashwat-006/DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +149,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [0435-non-overlapping-intervals](https://github.com/Shashwat-006/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Shashwat-006/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Shashwat-006/DSA/tree/main/0860-lemonade-change/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shashwat-006/DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +172,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shashwat-006/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shashwat-006/DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +310,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [0435-non-overlapping-intervals](https://github.com/Shashwat-006/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Shashwat-006/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shashwat-006/DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shashwat-006/DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -359,6 +364,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1004-max-consecutive-ones-iii](https://github.com/Shashwat-006/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shashwat-006/DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shashwat-006/DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shashwat-006/DSA/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
